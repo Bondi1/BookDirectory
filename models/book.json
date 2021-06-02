@@ -1,0 +1,23 @@
+[
+    {
+        "_id": "60b6b3b73a8fa643c44e3576",
+        "name": "Steve Jobs",
+        "author": "Walter Isaacson",
+        "publishedYear": 2011,
+        "__v": 0
+    },
+    {
+        "_id": "60b6b4ba3a8fa643c44e3577",
+        "name": "The Innovator’s Dilemma",
+        "author": "Clayton Christensen",
+        "publishedYear": 1997,
+        "__v": 0
+    },
+    {
+        "_id": "60b6b6053a8fa643c44e3578",
+        "name": "The Soul Of A New Machine",
+        "author": "Tracey Kidder",
+        "publishedYear": 1981,
+        "__v": 0
+    }
+]
